@@ -38,3 +38,16 @@ Gimnasio/
 └── ... (otros archivos .ico, .resx, .Designer.cs)
 
 ```
+
+## Imágenes
+
+**Menú de la aplicación**
+
+<img src="img/inicio.png" alt="Vista inicial de la aplicación">
+
+
+
+
+**Vista para gestionar personas**
+
+<img src="img/gestionarPersona.png" alt="Vista inicial de la aplicación">
